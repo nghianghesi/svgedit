@@ -178,7 +178,8 @@ export default class ConfigObj {
       'ext-connector',
       'ext-eyedropper',
       'ext-grid',
-      // 'ext-imagelib',
+      'ext-helloworld',
+	  'ext-bidatick',
       // 'ext-arrows',
       'ext-markers',
       // 'ext-overview_window', disabled until we fix performance issue

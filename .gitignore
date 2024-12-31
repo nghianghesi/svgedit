@@ -18,3 +18,5 @@ instrumented
 .idea
 dist
 coverage/coverage-summary.json
+.settings
+.project
